@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--repod1--toniadobe.aem.page/
-- Live: https://main--repod1--toniadobe.aem.live/
+- Preview: https://main--repoed1--toniadobe.aem.page/
+- Live: https://main--repoed1--toniadobe.aem.live/
 
 ## Installation
 
